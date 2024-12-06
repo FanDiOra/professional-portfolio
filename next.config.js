@@ -17,5 +17,8 @@ module.exports = {
         pathname: '**',
       },
     ],
+    unoptimized: true,
   },
+  output: 'export',
+  basePath: '/professional-portfolio', 
 }
